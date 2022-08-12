@@ -1,2 +1,2 @@
 # CodingBat
-Personal solutions for problems found at codingbat.com
+Personal solutions for Java problems found at codingbat.com
